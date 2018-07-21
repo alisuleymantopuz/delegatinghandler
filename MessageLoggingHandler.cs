@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Velux.WMS.Web.Handlers
+namespace App.Web.Handlers
 {
     /// <summary>
     /// MessageLoggingHandler handles all api request and responses and add logs base on them. 
